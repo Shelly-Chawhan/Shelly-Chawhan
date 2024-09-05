@@ -1,4 +1,4 @@
-![logo](https://github.com/Shelly-Chawhan/Shelly-Chawhan/blob/main/github-header-image.png)
+![logo]()
 
 <h1 align="left">Hello👋,</h1>
 <h3 align="left">Dedicated to learning and passionate about coding, I'm an eager beginner excited to grow and explore new possibilities in software development.</h3>
