@@ -1,6 +1,7 @@
 
 
-<h1 align="left">Hello👋,</h1>
+#Hello! My Name is Shelly Chawhan.
+
 <h3 align="left">Dedicated to learning and passionate about coding, I'm an eager beginner excited to grow and explore new possibilities in software development.</h3>
 <img align="right" alt="Learner" width="400" src="https://as1.ftcdn.net/v2/jpg/05/55/91/24/1000_F_555912466_RiqQv8mv5xChGgYUJmiWfXJQig5exXMx.jpg"> 
 
