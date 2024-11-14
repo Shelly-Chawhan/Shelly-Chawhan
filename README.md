@@ -1,5 +1,3 @@
-
-
 <h1>Hello! My Name is Shelly Chawhan.</h1>
 
 <h3 align="left">Dedicated to learning and passionate about coding, I'm an eager beginner excited to grow and explore new possibilities in software development.</h3>
@@ -26,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shelly-chawhan&show_icons=true&locale=en" alt="shelly-chawhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shelly-chawhan&" alt="shelly-chawhan" /></p>
+
 
